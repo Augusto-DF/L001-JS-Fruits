@@ -17,7 +17,7 @@
 
 ## Resources 🛠
 
-**Design**: https://www.figma.com/file/ObuMRmR0AGTv6mBnv6VG18/Fruit-Little-Car?node-id=0%3A1.
+**Design**: https://www.figma.com/file/ObuMRmR0AGTv6mBnv6VG18/Fruit-Little-Car.
 
 ## Acceptance criteria 📜
 
