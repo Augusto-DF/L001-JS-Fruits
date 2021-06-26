@@ -28,7 +28,7 @@
 - You must create a button fixed in the screen, where this button will make appear a modal to add new item on the buyable items.
 - You must use grid and flex-box container.
 
-### ( translated to pt-br )
+### ( translated to pt-br ) 🌎
 
 ## Descrição 📖
 
