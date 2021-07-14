@@ -8,7 +8,6 @@
 - Arrays.
 - Create Elements.
 - Click Events.
-- Modal Creations.
 - JS Modularization.
 - CSS Grid Container.
 - CSS Flex-box Container.
@@ -25,7 +24,6 @@
 - You don't must edit the index.html. ( everything you will need is already in it ).
 - You must use JS modularization.
 - Mandatory use of JS objects.
-- You must create a button fixed in the screen, where this button will make appear a modal to add new item on the buyable items.
 - You must use grid and flex-box container.
 
 ### ( translated to pt-br ) 🌎
@@ -38,7 +36,6 @@
 - Vetores.
 - Elementos HTML Criados Pelo JS ( Create Element).
 - Eventos de Clicks.
-- Criação de Modal.
 - Modularização JS.
 - CSS Grid Container.
 - CSS Flex-box Container.
@@ -51,6 +48,5 @@
 - Você não deve editar o index.html. ( Tudo que você vai precisar já está nele ).
 - Você deve usar modularização JS.
 - É obrigatório o uso de objetos JS.
-- Você deve criar um botão fixo na tela, onde fará aparecer um modal e ao preenche-lo ele irá adicionar um novo item aos itens compráveis.
 - Você deve usar grid e flex-box container.
 
